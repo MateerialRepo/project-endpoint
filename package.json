@@ -1,0 +1,15 @@
+{
+  "name": "project-endpoint",
+  "version": "1.0.0",
+  "description": "basic api code for my project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Luqman Bello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
